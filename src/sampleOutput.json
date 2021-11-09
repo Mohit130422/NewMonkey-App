@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "How the pandemic helped cricketer Ashleigh Gardner build a deeper connection with her Indigenous identity",
+            "description": "For Ashleigh Gardner, spending more time at home in Australia during the pandemic meant she could reconnect with her Indigenous roots.",
+            "url": "http://www.abc.net.au/news/2021-11-09/australian-cricketer-ashleigh-gardner-indigenous-identity/100557592",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/04d2bc5c35cce00b00e1522ce30d01f1?impolicy=wcms_crop_resize&cropH=1790&cropW=3183&xPos=0&yPos=351&width=862&height=485",
+            "publishedAt": "2021-11-09T05:11:07Z",
+            "content": "The Australian women's cricket team has not left the country since the pandemic struck in March 2020.\r\nKey points:\r\n<ul><li>Australian cricketer Ashleigh Gardner has used free time during the COVID p… [+5708 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Now is your time to be heard - Holding",
+            "description": "West Indies great Michael Holding urges individuals to 'share your story' of discrimination within cricket to a wide-ranging inquiry.",
+            "url": "http://www.bbc.co.uk/sport/cricket/59213148",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/E824/production/_121482495_michaelholden.jpg",
+            "publishedAt": "2021-11-09T00:22:27.0549798Z",
+            "content": "Azeem Rafiq played for Yorkshire between 2008-2014, 2016 and 2018 before making his allegations in 2020\r\nWest Indies great Michael Holding has urged individuals to \"share your story\" of discriminatio… [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Moeen 'not surprised' by racism scandal",
+            "description": "England's Moeen Ali says he is not surprised by the Yorkshire County Cricket Club racism scandal and there are \"probably more stories out there\", but believes \"it will bring changes\" to the sport.",
+            "url": "http://www.bbc.co.uk/sport/cricket/59169285",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/16BC8/production/_121482139_gettyimages-1348086018.jpg",
+            "publishedAt": "2021-11-08T17:37:30.1635568Z",
+            "content": "Moeen Ali has played in 64 Tests, 112 one-day-internationals and 43 Twenty20s for England\r\nEngland's Moeen Ali says he is not surprised by the Yorkshire County Cricket Club racism scandal and there a… [+3470 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "'Rafiq should be praised for bravery'",
+            "description": "Azeem Rafiq should be \"praised\" for his bravery and \"should never have been put through\" the Yorkshire County Cricket Club racism scandal, says the club's new chair Lord Patel.",
+            "url": "http://www.bbc.co.uk/sport/cricket/59206664",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D3D0/production/_121442245_rafiq-index.jpg",
+            "publishedAt": "2021-11-08T15:22:43.6028908Z",
+            "content": "Azeem Rafiq should be \"praised\" for his bravery and \"should never have been put through\" the Yorkshire County Cricket Club racism scandal, says the club's new chair Lord Patel.\r\nLord Patel said Yorks… [+568 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
