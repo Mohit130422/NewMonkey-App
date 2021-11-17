@@ -1,8 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faTwitter, faInstagram, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
-export class Footer extends Component {
-    render() {
+const Footer =()=>{
         return (
             <div>
                 <footer>
@@ -41,7 +40,6 @@ export class Footer extends Component {
 
             </div>
         )
-    }
 }
 
 export default Footer
