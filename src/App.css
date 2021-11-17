@@ -1,5 +1,94 @@
-.logo{
-    height: 50px;
-    border-radius: 5px;
-    margin-right: 5px;
+.logo {
+  height: 50px;
+  border-radius: 5px;
+  margin-right: 5px;
 }
+footer {
+    display: -ms-grid !important;
+    display: grid !important;
+    position: relative;
+    -ms-grid-columns: auto 300px;
+        grid-template-columns: auto 300px;
+    width: 100%;
+    background-color: #f9f9f9;
+    padding: 20px 50px;
+  }
+  
+  footer img {
+    margin: auto 0;
+    width: 150px;
+  }
+  
+  footer .footer-link {
+    text-align: center;
+    margin: auto;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  footer .footer-link a {
+    color: #000;
+  }
+  
+  footer .footer-social-list {
+    margin: auto 0;
+  }
+  
+  footer .footer-social-list .list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+    margin: 0 !important;
+    padding: 0;
+  }
+  
+  footer .footer-social-list .list-inline li {
+    padding: 0;
+    float: left;
+    margin-left: 10px;
+  }
+  
+  footer .footer-social-list .list-inline li a {
+    display: -ms-grid;
+    display: grid;
+    border: 1px solid #f9f9f9;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 2px rgba(212, 212, 212, 0.35);
+            box-shadow: 0 1px 2px rgba(212, 212, 212, 0.35);
+  }
+  
+  footer .footer-social-list .list-inline li a:hover {
+    background-color: #eceaf7;
+  }
+  
+  footer .footer-social-list .list-inline li a:hover svg {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #fff;
+  }
+  
+  footer .footer-social-list .list-inline li a svg {
+    margin: auto;
+    font-size: 22px;
+    background-color: #eeedf1;
+    color: black;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  footer p {
+    text-align: center;
+    margin: auto;
+  }
+  
+  footer p a {
+    color: #281483;
+  }
+  
+  footer p a:hover {
+    color: #d782d9 !important;
+  }
